@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "reflect-metadata": "https://esm.sh/reflect-metadata@0.1.13?target=deno",
+    "tsyringe": "https://esm.sh/tsyringe@4.7.0?target=deno"
+  }
+}

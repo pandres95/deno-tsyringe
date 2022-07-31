@@ -1,0 +1,12 @@
+{
+  "fmt": {
+    "options": {
+      "singleQuote": true
+    }
+  },
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "importMap": "imports.json"
+}
